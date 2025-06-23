@@ -1,7 +1,3 @@
-Berikut adalah contoh dokumentasi dalam format `README.md` yang profesional dan lengkap untuk proyek ETL pipeline data fashion Anda:
-
----
-
 
 # 🧵 Fashion Product Data ETL Pipeline
 
