@@ -2,7 +2,7 @@ Berikut adalah contoh dokumentasi dalam format `README.md` yang profesional dan 
 
 ---
 
-```markdown
+
 # 🧵 Fashion Product Data ETL Pipeline
 
 Proyek ini merupakan implementasi pipeline **Extract-Transform-Load (ETL)** untuk mengumpulkan, membersihkan, dan menyimpan data produk fashion dari situs [fashion-studio.dicoding.dev](https://fashion-studio.dicoding.dev/). Proyek dikembangkan sebagai bagian dari submission akhir kelas **Belajar Fundamental Pemrosesan Data** di Dicoding.
@@ -10,7 +10,7 @@ Proyek ini merupakan implementasi pipeline **Extract-Transform-Load (ETL)** untu
 ---
 
 ## 🧱 Struktur Proyek
-
+```markdown
 .
 ├── .env                 #virtual environment
 ├── main.py
